@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Prueba</string>
+    <string name="usuario">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multipli">Multiplicacion</string>
+    <string name="divi">Divicion</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+    <string name="btn_1">Registrar</string>
+    <string name="titulo1">Sistema de pruebas basicas</string>
+    <string name="titulo2">Iniciar sesion</string>
+    <string name="btn_2">Regresar</string>
+    <string name="actividades">Actividades:</string>
+    <string name="navegacion">Navegar</string>
+    <string name="ope1">Operaciones c.</string>
+    <string name="ope2">operaciones s.</string>
+    <string name="url">Ingresa url</string>
+    <string name="visita">Visitar sitio</string>
+    <string name="ops">Operaciones simples</string>
+    <string name="dg1">Digite el primer valor</string>
+    <string name="dg2">Digite el segundo valor</string>
+    <string name="spiner">Selecione el tipo de operacion</string>
+    <string name="ingresa_email">Ingresa email</string>
+    <string name="guardar">Guardar</string>
+    <string name="g_basico">G. basico</string>
+
+
+</resources>
